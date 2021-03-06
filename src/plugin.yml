@@ -11,6 +11,3 @@ commands:
     blessed:
         usage: /blessed
         description: Check if you are part of the chosen ones.
-    godenchant:
-        usage: /godenchant [with item in hand]
-        description: Enchant the item in your hand with maxed enchants!
